@@ -10,7 +10,7 @@ Install [nodejs] (https://nodejs.org/en/download/)
 
 `` `Bash
 
-$ git clone https://github.com/AbhiWisdom/Eva-Ai-Bot-Open-Ai-Whatsapp
+$ git clone https://github.com/technicalsushantoffical/Eva-Ai-Bot-Whatsapp-Technical-Sushant.git
 
 $ CD WA-OPANAI
 
