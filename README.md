@@ -21,6 +21,6 @@ $ node index.js
 How to get OpenAI API?
 Visit: https://beta.openai.com/account/api-keys
 
-*For Website Replit Users 👇🏻👇🏻
+*For Replit Website Users Not For Laptop/Desktop 👇🏻👇🏻
 
 Finally, connect the web address given at top right corner to a hosting website. I use freshping the most.
